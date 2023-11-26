@@ -1,6 +1,8 @@
 # webdriverio
 [webdriverio](https://webdriver.io/) learning notes
 
+<img width="219" alt="image" src="https://github.com/guchanghai/webdriverio/assets/2970098/0de399fa-b703-4409-a416-0cc344054086">
+
 # Best practice
 
 https://webdriver.io/docs/bestpractices
